@@ -4,7 +4,6 @@ Demonstrator und Code-Generator:
 link:http://the-echoplex.net/flexyboxes/[Flexy Boxes]
 
 .Ct Flexlayout Example
-
 link:http://www.heise.de/ct/ausgabe/2015-11-CSS-Gestaltung-mit-Flexboxen-2618160.html[Ct Neue Web-Layouts (11/2015)]
 [source,html]
 ----
