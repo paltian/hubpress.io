@@ -4,7 +4,7 @@ Demonstrator und Codegenerator:
 link:http://the-echoplex.net/flexyboxes/[Flexy Boxes]
 
 .Ct Flexlayout Example
-[sourc,html]
+[code,html]
 ----
 <!DOCTYPE html>
 <html>
