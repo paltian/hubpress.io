@@ -3,7 +3,7 @@
 
 CSS Generator und Demonstrator: http://the-echoplex.net/flexyboxes/
 
-
+[source,html]
 <!DOCTYPE html>
 <html>
 <head>
