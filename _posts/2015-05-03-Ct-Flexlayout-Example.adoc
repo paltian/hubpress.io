@@ -68,6 +68,8 @@
 
 	</style>
 </head>
+
+CSS Generator und Demonstrator: link:http://the-echoplex.net/flexyboxes/[Flexy Boxes]
 <body>
 	<header>header</header>
 	<main>
