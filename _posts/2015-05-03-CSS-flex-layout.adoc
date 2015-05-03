@@ -1,9 +1,11 @@
-= Ct Flexlayout Example
+= CSS flex layout 
 
 Demonstrator und Codegenerator: 
 link:http://the-echoplex.net/flexyboxes/[Flexy Boxes]
 
+.Ct Flexlayout Example
 [sourc,html]
+----
 <!DOCTYPE html>
 <html>
 <head>
@@ -93,3 +95,4 @@ link:http://the-echoplex.net/flexyboxes/[Flexy Boxes]
 	</script>
 </body>
 </html>
+----
