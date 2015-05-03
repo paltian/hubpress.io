@@ -1,9 +1,8 @@
 = Ct Flexlayout Example
 
 
-CSS Generator und Demonstrator: http://the-echoplex.net/flexyboxes/
+CSS Generator und Demonstrator: http://the-echoplex.net/flexyboxes/[Flexy Boxes]
 
-[source,html]
 <!DOCTYPE html>
 <html>
 <head>
