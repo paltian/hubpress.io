@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "paltian",
-    "repositoryName": "paltian.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"paltian","repositoryName":"paltian.github.io","branch":"master"},"site":{"url":"https://paltian.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//paltian.github.io/themes/Saga"}}
