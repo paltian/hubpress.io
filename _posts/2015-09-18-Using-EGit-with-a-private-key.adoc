@@ -1,0 +1,1 @@
+= Using EGit with a private key
